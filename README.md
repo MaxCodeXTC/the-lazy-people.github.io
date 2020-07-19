@@ -1,4 +1,6 @@
 <p align=center>
+<img width="50%"src="./img/Capture.JPG"><br><br>
+
 <img src="https://avatars3.githubusercontent.com/u/66350338?s=200&v=4">
 </p>
 
